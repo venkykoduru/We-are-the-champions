@@ -1,0 +1,67 @@
+body{
+    text-align: center;
+    margin:auto;
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    color:white;
+    background-color: #111827;
+    font-family: 'Raleway', sans-serif;
+    Font-style: Bold;
+    Font-size: 25px;
+    
+}   
+
+img{
+    width:150px;
+    margin-top: 40px;
+    
+}
+#input-el{
+    width:282px;
+    padding:50px;
+    background-color: #444059;
+    color:white;
+
+
+}
+#button-el{
+    Font-family:Josefin Sans;
+    Font-style: Bold;
+    padding:25px;
+    margin-top:20px;
+    background-color: #28A9F1;
+    Width:317px;
+    Font-style: Bold;
+    Font-size: 25px;
+}
+
+ul{
+    
+    
+   
+    list-style-type:none;
+    width:750px;
+    padding:0;
+   
+    
+}
+ul li{
+    border:none;
+    border-radius:5px;
+    margin-top:25px;
+    padding:10px;
+    background-color: white;
+    color:black;
+    Font-family: Inter;
+    Font-style: Regular;
+    Font-size: 20px;
+}
+
+
+
+
+
+
+
+
